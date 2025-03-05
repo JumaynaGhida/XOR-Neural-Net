@@ -15,9 +15,8 @@ The XOR problem is a classic example demonstrating the necessity of **non-linear
 ✅ **Sigmoid activation function** for non-linearity.  
 ✅ **Basic implementation of a multi-layer perceptron (MLP).**  
 
-## 🚀 How to Run the Code  
+## 🚀 Run on GitHub Codespaces  
 
-1️⃣ Clone this repository:  
-```bash
-git clone https://github.com/JumaynaGhida/XOR-Neural-Net.git
-cd XOR-Neural-Net
+Click the button below to open this project instantly in GitHub Codespaces:  
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=JumaynaGhida/XOR-Neural-Net)
